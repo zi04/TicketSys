@@ -8,7 +8,7 @@ memory, so everything is reset when the program is stopped.
 JDK 25 and Gradle are needed. The Gradle wrapper is included, so use it from
 the project root:
 
-```bash
+```bash run
 ./gradlew build
 ./gradlew run
 ```
