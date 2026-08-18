@@ -8,7 +8,7 @@ memory, so everything is reset when the program is stopped.
 JDK 25 and Gradle are needed. The Gradle wrapper is included, so use it from
 the project root:
 
-```bash
+```bash 
 ./gradlew build
 ./gradlew run
 ```
@@ -170,4 +170,4 @@ uses the real current time.
 - `Cli.java` reads commands and prints results.
 
 The tests cover ticket seat counting, reservation states, expiry, atomic
-reservations, and payment idempotency.
+reservations, and payment idempotency...
