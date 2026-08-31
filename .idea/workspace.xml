@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a78b2766-e814-4202-bfa8-33b07a4f2ac3" name="Changes" comment="" />
+    <list default="true" id="a78b2766-e814-4202-bfa8-33b07a4f2ac3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/database/index_exp.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/queries/q1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/queries/q2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/queries/q3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/queries/q4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/queries/q5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/queries/q6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/queries/q7.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/queries/q8.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/transactions/cancel.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/transactions/expire.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/transactions/pay.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/transactions/reserve.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.4.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +49,11 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="week-01-domain" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
@@ -43,23 +64,32 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="3HzHyeItzJB91h685Rl2Ggfxz5e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.TicketFlow [:com.ticketflow.Main.main()].executor": "Run",
-    "Gradle.TicketFlow-Mini [:com.ticketflow.Main.main()].executor": "Run",
-    "Gradle.TicketSys [:com.ticketflow.Main.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/zaid/Desktop/Ticket/TicketSys",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.TicketFlow [:com.ticketflow.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TicketFlow-Mini [:com.ticketflow.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TicketSys [:com.ticketflow.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;week-02-database&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zaid/Desktop/Ticket/TicketSys&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/database" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ticketflow.Main" />
